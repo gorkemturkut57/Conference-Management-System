@@ -1,0 +1,32 @@
+[
+    {
+        "name": "G\u00f6rkem Turkut",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "123",
+        "role": "author"
+    },
+    {
+        "name": "Ahmet Memi\u015f",
+        "email": "ahmetmemis@hotmail.com",
+        "password": "123",
+        "role": "reviewer"
+    },
+    {
+        "name": "Burak Karame\u015fe",
+        "email": "burakkaramese@hotmail.com",
+        "password": "123",
+        "role": "organizator"
+    },
+    {
+        "name": "Arda Akg\u00fcn",
+        "email": "ardaakgun@hotmail.com",
+        "password": "123",
+        "role": "participant"
+    },
+    {
+        "name": "Mert \u00c7\u0131nk\u0131r",
+        "email": "mertcinkir@hotmail.com",
+        "password": "123",
+        "role": "author"
+    }
+]

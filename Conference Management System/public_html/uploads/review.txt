@@ -1,0 +1,36 @@
+Mark: 85
+Review: Yazılım Mühendisliği Eğitiminde Yenilikçi Bir Uygulama: Gerçek Yazılım Projelerine Dayalı Ders İşleyişi
+Giriş:
+
+Yazılım geliştirme projeleri, artan maliyetleri ve düşük başarı oranları ile dikkat çekmektedir. Bu sorunu çözmek amacıyla Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği bölümünde, "Yazılım Mühendisliği" dersinde gerçek yazılım projelerine dayalı bir uygulama den denenmiştir. Bu makalede, bu uygulamanın amaç, kapsam, işleyiş, yaklaşım ve hedefleri detaylı bir şekilde ele alınacaktır.
+
+Sorun Tanımı:
+
+Yazılım geliştirme projelerinin başarısızlık oranı oldukça yüksektir. CHAOS raporuna göre, 2015 yılında geliştirilen yazılım projelerinin sadece %17'si tam zamanında, bütçede ve taleplere uygun şekilde tamamlanmıştır. Bu durum, yazılım geliştirme projelerinin maliyetinin artmasına ve zaman kaybına yol açmaktadır.
+
+Çözüm Önerisi:
+
+Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği bölümünde, "Yazılım Mühendisliği" dersinde gerçek yazılım projelerine dayalı bir uygulama denenmiştir. Bu uygulamada, öğrenciler gerçek müşterilerle birlikte yazılım projeleri üzerinde çalışarak teorik bilgileri pratiğe dökme imkanı bulmuştur.
+
+Uygulamanın İşleyişi:
+
+Uygulama, 2014-2017 eğitim öğretim dönemlerinde gerçekleştirilmiştir. Her dönemde, 4-5 kişilik öğrenci grupları, yazılım firmaları veya yazılıma ihtiyaç duyan firmalar ile eşleştirilmiştir. Öğrenciler, bu firmalarla birlikte ihtiyaç duyulan yazılımı tasarlamış, geliştirmiş ve test etmiştir.
+
+Uygulamanın Sonuçları:
+
+Uygulamanın sonucunda, "Yazılım Mühendisliği" dersinin daha pratik ve fonksiyonel hale geldiği görülmüştür. Öğrenciler, teorik bilgileri pratiğe uygulama imkanı bularak derslere daha aktif katılmış ve gerçek hayatta karşılaşılabilecek problemleri çözme becerilerini geliştirmiştir.
+
+Tartışma:
+
+Makalede sunulan bulgular, yazılım mühendisliği eğitiminde yenilikçi uygulamaların önemini vurgulamaktadır. Gerçek yazılım projelerine dayalı ders işleyişi, öğrencilerin daha aktif bir şekilde katılımını sağlayarak derslerin daha etkili olmasını sağlamaktadır.
+
+Sonuç:
+
+Yazılım geliştirme projelerinin başarısızlık oranını düşürmek için yazılım mühendisliği eğitiminde yenilikçi uygulamalara ihtiyaç duyulmaktadır. Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği bölümünde denenmiş olan uygulama, bu alandaki diğer eğitimcilere ilham verebilecek bir örnek teşkil etmektedir.
+
+Tavsiyeler:
+
+Bu tür uygulamaların daha yaygın hale getirilmesi ve farklı disiplinlerde de denenmesi faydalı olacaktır. Ayrıca, bu uygulamaların etkinliğini ve işlevselliğini değerlendiren araştırmaların yapılması da gerekmektedir.
+
+Not: Bu metin düz bir formatta yazılmıştır. Makalenin orijinalinde yer alan bazı ayrıntılar ve teknik terimler bu metinde yer almamaktadır.
+
