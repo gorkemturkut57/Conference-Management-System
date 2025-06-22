@@ -47,6 +47,8 @@ This system aims to:
 - **Feedback**: Participants can provide feedback on sessions.
 - **Role-based Dashboards**: Each user type sees a tailored dashboard and options.
 
+![](Screenshots/2.png)
+
 ---
 
 ## User Roles & Capabilities
