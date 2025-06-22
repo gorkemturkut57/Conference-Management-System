@@ -142,7 +142,9 @@ This system aims to:
 ![](Screenshots/7.png)
 ---
 ![](Screenshots/8.png)
-
+---
+![](Screenshots/8.png)
+---
 ---
 
 ## Contact
