@@ -1,0 +1,73 @@
+[2024-01-01 12:00:00] SYSTEM: Conference Management System started
+[2024-01-01 12:05:00] USER: organizer@hotmail.com logged in
+[2024-01-01 12:10:00] USER: author@hotmail.com logged in
+[2024-01-01 12:15:00] USER: reviewer@hotmail.com logged in
+[2024-01-01 12:20:00] MAINTENANCE: Maintenance mode enabled. Reason: System test
+[2024-01-01 12:25:00] USER: participant@hotmail.com logged in
+[2024-01-01 12:30:00] SYSTEM: Report page visited
+[2024-01-01 12:35:00] SYSTEM: Log page visited
+[2024-01-15 10:30:15] INFO: Conference Management System started
+[2024-01-15 10:30:16] INFO: Database connection successful
+[2024-01-15 10:31:22] INFO: User login: admin@example.com
+[2024-01-15 10:32:45] INFO: New conference created: "Technology Conference 2024"
+[2024-01-15 10:33:12] WARNING: File upload error: size limit exceeded
+[2024-01-15 10:35:18] INFO: Article submitted: "Artificial Intelligence Applications"
+[2024-01-15 10:36:33] ERROR: Database query error: Connection timeout
+[2024-01-15 10:37:45] INFO: Error fixed, system is operating normally
+[2024-01-15 10:38:22] INFO: User logout: admin@example.com
+[2024-01-15 10:40:15] INFO: System put into maintenance mode
+[2024-01-15 10:42:30] INFO: Maintenance completed, system active
+[2024-01-15 10:45:12] INFO: New user registration: user123@example.com
+[2024-01-15 10:46:28] WARNING: Password security warning: weak password used
+[2024-01-15 10:48:15] INFO: Conference program updated
+[2024-01-15 10:50:33] INFO: Report created: "Participant Statistics"
+[2024-01-15 10:52:18] INFO: Email sent to 25 participants
+[2024-01-15 10:55:42] INFO: Backup operation successful
+[2024-01-15 10:57:15] INFO: System performance control completed
+[2024-01-15 11:00:00] INFO: Daily maintenance routine started
+[2025-06-22 08:54:44] MAINTENANCE: Maintenance mode enabled. Reason: System Failure
+[2025-06-22 08:54:49] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 08:54:55] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 08:54:58] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 08:55:21] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 08:59:05] MAINTENANCE: Maintenance mode enabled. Reason: Technical Failure
+[2025-06-22 08:59:13] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 10:06:54] MAINTENANCE: Maintenance mode enabled. Reason: Technical Failure
+[2025-06-22 10:07:26] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 10:17:57] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 10:57:47] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 10:58:29] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:03:15] MAINTENANCE: Maintenance mode enabled. Reason: Technical failure
+[2025-06-22 11:07:45] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:07:53] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 11:10:06] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 11:10:25] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:11:36] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:11:41] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 11:11:50] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:13:15] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:13:21] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:14:00] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:14:10] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:29:27] MAINTENANCE: Maintenance mode enabled. Reason: Technical Failure!
+[2025-06-22 11:31:45] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 11:32:12] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 11:43:07] MAINTENANCE: Maintenance mode enabled. Reason: Technical Failure!
+[2025-06-22 11:43:54] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 12:13:41] MAINTENANCE: Maintenance mode enabled. Reason: 
+[2025-06-22 12:14:10] MAINTENANCE: Maintenance mode disabled.
+[2025-06-22 13:03:46] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: 
+[2025-06-22 13:04:08] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:12:21] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: 
+[2025-06-22 13:12:24] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:12:45] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:13:24] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:13:32] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:14:30] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:14:33] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: 
+[2025-06-22 13:14:37] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:26:24] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: Teknik Arıza!
+[2025-06-22 13:26:52] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:29:05] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: 
+[2025-06-22 13:29:09] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 13:29:12] MAINTENANCE: Bakım modu devre dışı bırakıldı.

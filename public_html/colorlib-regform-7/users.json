@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John Doe",
+        "email": "author@hotmail.com",
+        "password": "sinop5757",
+        "role": "author"
+    },
+    {
+        "name": "Alice Johnson",
+        "email": "organizer@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizer"
+    },
+    {
+        "name": "Maria Smith",
+        "email": "reviewer@hotmail.com",
+        "password": "sinop5757",
+        "role": "reviewer"
+    },
+    {
+        "name": "David Lee",
+        "email": "participant@hotmail.com",
+        "password": "sinop5757",
+        "role": "participant"
+    },
+    {
+        "name": "Jane Miller",
+        "email": "janemiller@hotmail.com",
+        "password": "sinop5757",
+        "role": "author"
+    },
+    {
+        "name": "Gorkem Turkut",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    }
+]
