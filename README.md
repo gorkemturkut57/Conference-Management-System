@@ -132,15 +132,15 @@ This system aims to:
 ## Screenshots
 
 ![](Screenshots/3.png)
-
+---
 ![](Screenshots/4.png)
-
+---
 ![](Screenshots/5.png)
-
+---
 ![](Screenshots/6.png)
-
+---
 ![](Screenshots/7.png)
-
+---
 ![](Screenshots/8.png)
 
 ---
