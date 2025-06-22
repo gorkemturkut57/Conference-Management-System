@@ -1,0 +1,128 @@
+[
+    {
+        "name": "G\u00f6rkem Turkut",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "123",
+        "role": "author"
+    },
+    {
+        "name": "Ahmet Memi\u015f",
+        "email": "ahmetmemis@hotmail.com",
+        "password": "123",
+        "role": "reviewer"
+    },
+    {
+        "name": "Burak Karame\u015fe",
+        "email": "burakkaramese@hotmail.com",
+        "password": "123",
+        "role": "organizator"
+    },
+    {
+        "name": "Arda Akg\u00fcn",
+        "email": "ardaakgun@hotmail.com",
+        "password": "123",
+        "role": "participant"
+    },
+    {
+        "name": "Mert \u00c7\u0131nk\u0131r",
+        "email": "mertcinkir@hotmail.com",
+        "password": "123",
+        "role": "author"
+    },
+    {
+        "name": "G\u00f6rkem Turkut",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "sinop5757",
+        "role": "author"
+    },
+    {
+        "name": "Furkan K\u00fc\u00e7\u00fckkepeci",
+        "email": "furkan@hotmail.com",
+        "password": "sinop5757",
+        "role": "reviewer"
+    },
+    {
+        "name": "G\u00f6rkem Turkut",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "S\u0130NOP5757",
+        "role": "author"
+    },
+    {
+        "name": "John Doe",
+        "email": "johndoe@hotmail.com",
+        "password": "sinop5757",
+        "role": "reviewer"
+    },
+    {
+        "name": "Furkan K\u00fc\u00e7\u00fckkepeci",
+        "email": "furkan@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    },
+    {
+        "name": "Burak Karame\u015fe",
+        "email": "burak@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    },
+    {
+        "name": "Burak Karame\u015fe",
+        "email": "burak@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    },
+    {
+        "name": "Mert \u00c7\u0131nk\u0131r",
+        "email": "mert@hotmail.com",
+        "password": "sinop5757",
+        "role": "participant"
+    },
+    {
+        "name": "G\u00f6rkem ",
+        "email": "gorkemturkut@hotmail.com",
+        "password": "sinop5757",
+        "role": "author"
+    },
+    {
+        "name": "\u00c7a\u011fr\u0131 Ya\u015fayancan",
+        "email": "cagri@hotmail.com",
+        "password": "sinop5757",
+        "role": "reviewer"
+    },
+    {
+        "name": "Ege",
+        "email": "ege@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    },
+    {
+        "name": "Mert \u00c7\u0131nk\u0131r",
+        "email": "mertcinkir@hotmail.com",
+        "password": "sinop5757",
+        "role": "participant"
+    },
+    {
+        "name": "author",
+        "email": "author@hotmail.com",
+        "password": "sinop5757",
+        "role": "author"
+    },
+    {
+        "name": "organizator",
+        "email": "organizator@hotmail.com",
+        "password": "sinop5757",
+        "role": "organizator"
+    },
+    {
+        "name": "reviewer",
+        "email": "reviewer@hotmail.com",
+        "password": "sinop5757",
+        "role": "reviewer"
+    },
+    {
+        "name": "participant",
+        "email": "participant@hotmail.com",
+        "password": "sinop5757",
+        "role": "participant"
+    }
+]
