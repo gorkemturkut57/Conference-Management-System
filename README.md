@@ -4,6 +4,8 @@
 
 The **Conference Management System** is a web-based platform designed to streamline and automate the management of academic and professional conferences. It provides a centralized solution for organizers, authors, reviewers, and participants to manage submissions, reviews, scheduling, and user administration efficiently.
 
+![](Screenshots/1.png)
+
 ---
 
 ## Table of Contents
@@ -44,6 +46,8 @@ This system aims to:
 - **Logging**: System logs accessible to organizers for monitoring activities.
 - **Feedback**: Participants can provide feedback on sessions.
 - **Role-based Dashboards**: Each user type sees a tailored dashboard and options.
+
+![](Screenshots/2.png)
 
 ---
 
@@ -122,6 +126,22 @@ This system aims to:
    - Ensure the `uploads/` directory is writable by the web server for file uploads and logs.
 5. **Access the system:**
    - Open your browser and navigate to the appropriate URL (e.g., `http://localhost/public_html/index.php`).
+
+---
+
+## Screenshots
+
+![](Screenshots/3.png)
+---
+![](Screenshots/4.png)
+---
+![](Screenshots/5.png)
+---
+![](Screenshots/6.png)
+---
+![](Screenshots/7.png)
+---
+![](Screenshots/8.png)
 
 ---
 
