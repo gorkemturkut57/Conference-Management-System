@@ -71,3 +71,4 @@
 [2025-06-22 13:29:05] MAINTENANCE: Bakım modu aktifleştirildi. Sebep: 
 [2025-06-22 13:29:09] MAINTENANCE: Bakım modu devre dışı bırakıldı.
 [2025-06-22 13:29:12] MAINTENANCE: Bakım modu devre dışı bırakıldı.
+[2025-06-22 14:30:57] MAINTENANCE: Maintenance mode enabled. Reason: 
