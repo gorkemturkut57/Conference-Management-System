@@ -4,6 +4,8 @@
 
 The **Conference Management System** is a web-based platform designed to streamline and automate the management of academic and professional conferences. It provides a centralized solution for organizers, authors, reviewers, and participants to manage submissions, reviews, scheduling, and user administration efficiently.
 
+![Logo](images/1.png)
+
 ---
 
 ## Table of Contents
